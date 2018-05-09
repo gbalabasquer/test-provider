@@ -1,0 +1,19 @@
+{
+  "name": "test-provider",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ledger-wallet-provider": "^2.0.1-beta.2",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "web3": "^0.20.6",
+    "web3-provider-engine": "^14.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
